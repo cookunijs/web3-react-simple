@@ -2,7 +2,7 @@
   "private": true,
   "name": "web3-react",
   "engines": {
-    "node": "16"
+    "node": "14"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
